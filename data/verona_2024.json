@@ -1,0 +1,724 @@
+[
+  {
+    "nome": "Ospedale di Borgo Trento",
+    "indirizzo": "Piazzale Stefani",
+    "citta": "Verona",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "Ospedale di Borgo Roma",
+    "indirizzo": "Via delle Menegone",
+    "citta": "Verona",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "Ospedale di Bovolone",
+    "indirizzo": "Piazzale Flaming 1",
+    "citta": "Bovolone",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2025-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2025-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2025-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Bussolengo",
+    "indirizzo": "Via Ospedale 1",
+    "citta": "Bussolengo",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2025-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2025-04-20",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2025-04-21",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2025-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2025-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2025-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2025-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2025-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2025-12-08",
+        "nota": "8 dicembre"
+      },
+      {
+        "data": "2025-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2025-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "data": "2025-05-21",
+        "nota": "Patrono"
+      },
+      {
+        "data": "2025-08-18",
+        "nota": ""
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. di Caprino Veronese",
+    "indirizzo": "Via Capuccini",
+    "citta": "Caprino Veronese",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "C.S.P. di Cologna Veneta",
+    "indirizzo": "Cologna Veneta",
+    "citta": "Via Rinascimento",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-11-01",
+        "nota": ""
+      },
+      {
+        "dataInizio": "2025-08-01",
+        "dataFine": "2025-08-31",
+        "isRangeChiusura": true,
+        "nota": ""
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di San Bonifacio",
+    "indirizzo": "Via circonvallazione",
+    "citta": "San Bonifacio",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2025-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2025-04-20",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2025-04-21",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2025-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2025-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2025-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2025-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2025-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2025-12-08",
+        "nota": "8 dicembre"
+      },
+      {
+        "data": "2025-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2025-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "data": "2025-05-21",
+        "nota": "Patrono"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Isola della scala",
+    "indirizzo": "Via Roma",
+    "citta": "Isola della scala",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "Ospedale di Legnago",
+    "indirizzo": "Via Don Gianella",
+    "citta": "Legnago",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2025-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2025-04-20",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2025-04-21",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2025-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2025-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2025-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2025-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2025-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2025-12-08",
+        "nota": "8 dicembre"
+      },
+      {
+        "data": "2025-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2025-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "data": "2025-05-21",
+        "nota": "Patrono"
+      },
+      {
+        "data": "2025-03-23",
+        "nota": ""
+      },
+      {
+        "data": "2025-05-22",
+        "nota": ""
+      },
+      {
+        "data": "2025-08-24",
+        "nota": ""
+      },
+      {
+        "data": "2025-11-23",
+        "nota": ""
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Malcesine",
+    "indirizzo": "Val di sogno",
+    "citta": "Malcesine",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 2,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [
+      {
+        "data": "2025-01-12",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2025-03-09",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2025-05-11",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2025-07-13",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2025-09-14",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2025-11-09",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "chiusure": []
+  },
+  {
+    "nome": "Ospedale di Negrar",
+    "indirizzo": "Viale Luigi Rizzardi",
+    "citta": "Negrar",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "13:00"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "dataInizio": "2025-08-01",
+        "dataFine": "2025-08-31",
+        "isRangeChiusura": true,
+        "nota": ""
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. Nogara",
+    "indirizzo": "Via Raffa",
+    "citta": "Nogara",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "C.S.P. di Tregnago",
+    "indirizzo": "Via Massalongo",
+    "citta": "Tregnago",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 2,
+        "oraApertura": "07:45",
+        "oraChiusura": "10:30"
+      },
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 4,
+        "oraApertura": "07:45",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2025-07-25",
+        "nota": ""
+      },
+      {
+        "dataInizio": "2025-08-01",
+        "dataFine": "2025-08-31",
+        "isRangeChiusura": true,
+        "nota": ""
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Villafranca",
+    "indirizzo": "Via Ospedale",
+    "citta": "Villafranca",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 6,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": []
+  },
+  {
+    "nome": "C.S.P. Zevio",
+    "indirizzo": "Via Chiarenzi",
+    "citta": "Zevio",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": []
+  }
+]

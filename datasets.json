@@ -1,14 +1,14 @@
 [
   {
     "nome": "Centri Trasfusionali Verona 2024",
-    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona",
+    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona 2024",
     "ultimoAggiornamento": "2024-03-20",
     "url": "https://raw.githubusercontent.com/tuoUsername/lifeblood-datasets/main/data/verona_2024.json"
   },
   {
     "nome": "Centri Trasfusionali Padova 2024",
-    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Padova",
-    "ultimoAggiornamento": "2024-03-15",
-    "url": "https://raw.githubusercontent.com/tuoUsername/lifeblood-datasets/main/data/padova_2024.json"
+    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona 2025",
+    "ultimoAggiornamento": "2025-03-15",
+    "url": "https://raw.githubusercontent.com/tuoUsername/lifeblood-datasets/main/data/verona_2025.json"
   }
 ]

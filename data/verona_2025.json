@@ -1091,7 +1091,7 @@
       }
     ]
   }
-  {
+ {
   "nome": "Ospedale di Legnago",
   "indirizzo": "Via Ospedale, Legnago",
   "citta": "Legnago",
@@ -1139,10 +1139,66 @@
       "numeroGiornoMese": 2,
       "oraApertura": "08:00",
       "oraChiusura": "11:00"
+    }
+  ],
+  "dateSpecifiche": [
+    {
+      "data": "2025-01-26",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
     },
     {
-      "giorno": 7,
-      "numeroGiornoMese": "ultimo",
+      "data": "2025-02-23",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-03-30",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-04-27",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-05-25",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-06-29",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-07-27",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-08-31",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-09-28",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-10-26",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-11-30",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "data": "2025-12-28",
       "oraApertura": "08:00",
       "oraChiusura": "11:00"
     }

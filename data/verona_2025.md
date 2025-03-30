@@ -41,6 +41,13 @@
 - **Indirizzo**: Via Rizzardi, Negrar
 - **Orario**: Lunedì-Venerdì 8:00-10:30
 
+### Ospedale di Legnago
+- **Indirizzo**: Via Ospedale, Legnago
+- **Orario**: Dal lunedì al sabato 08:00-11:00; inoltre, aperture mensili:
+- 1ª e 2ª domenica del mese
+- Ultima domenica del mese (2025)
+
+
 ## Centri con Apertura Settimanale
 
 ### Ospedale di Villafranca

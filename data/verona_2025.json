@@ -1001,6 +1001,7 @@
     ]
   },
   {
+	  
     "nome": "Ospedale di Negrar",
     "indirizzo": "Via Rizzardi",
     "citta": "Negrar",
@@ -1090,4 +1091,61 @@
       }
     ]
   }
+  {
+  "nome": "Ospedale di Legnago",
+  "indirizzo": "Via Ospedale, Legnago",
+  "citta": "Legnago",
+  "orariSettimanali": [
+    {
+      "giorno": 1,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 2,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 3,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 4,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 5,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 6,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    }
+  ],
+  "orariMensili": [
+    {
+      "giorno": 7,
+      "numeroGiornoMese": 1,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 7,
+      "numeroGiornoMese": 2,
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    },
+    {
+      "giorno": 7,
+      "numeroGiornoMese": "ultimo",
+      "oraApertura": "08:00",
+      "oraChiusura": "11:00"
+    }
+  ]
+}
 ] 

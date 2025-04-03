@@ -10,7 +10,7 @@
   {
     "nome": "Centri Trasfusionali Verona 2025",
     "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona 2025",
-    "ultimoAggiornamento": "15-03-2025",
+    "ultimoAggiornamento": "16-03-2025",
     "url": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2025.json",
     "riepilogoUrl": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2025.md"
 

@@ -5,7 +5,6 @@
     "ultimoAggiornamento": "20-03-2024",
     "url": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2024.json",
     "riepilogoUrl": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2024.md"
-
   },
   {
     "nome": "Centri Trasfusionali Verona 2025",
@@ -13,6 +12,19 @@
     "ultimoAggiornamento": "18-03-2025",
     "url": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2025.json",
     "riepilogoUrl": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2025.md"
-
+  },
+  {
+    "nome": "Centri Trasfusionali Verona 2026",
+    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona 2026",
+    "ultimoAggiornamento": "01-10-2026",
+    "url": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2026.json",
+    "riepilogoUrl": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2026.md"
+  },
+  {
+    "nome": "Centri Trasfusionali Verona 2027",
+    "descrizione": "Dataset completo dei centri trasfusionali della provincia di Verona 2027 (previsione, da verificare)",
+    "ultimoAggiornamento": "01-10-2026",
+    "url": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2027.json",
+    "riepilogoUrl": "https://raw.githubusercontent.com/jonrox/lifeblood-datasets/main/data/verona_2027.md"
   }
 ]

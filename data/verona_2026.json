@@ -1,0 +1,1429 @@
+[
+  {
+    "nome": "Ospedale di Borgo Trento",
+    "indirizzo": "Piazzale Stefani, 1",
+    "citta": "Verona",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-04",
+        "nota": "Chiusura"
+      },
+      {
+        "data": "2026-08-09",
+        "nota": "Chiusura"
+      },
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Borgo Roma",
+    "indirizzo": "Via delle Menegone, 1",
+    "citta": "Verona",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [
+      {
+        "data": "2026-03-22",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-05-10",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-09-27",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-11-29",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-12-27",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di San Bonifacio",
+    "indirizzo": "Via Circonvallazione 1",
+    "citta": "San Bonifacio",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [
+      {
+        "data": "2026-01-18",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-02-15",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-03-15",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-04-12",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-05-17",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-06-14",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-07-19",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-09-20",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-10-18",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-11-15",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-12-20",
+        "oraApertura": "07:30",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Bussolengo",
+    "indirizzo": "Via Ospedale, 1",
+    "citta": "Bussolengo",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "data": "2026-08-16",
+        "nota": "Chiusura"
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. di Tregnago",
+    "indirizzo": "Via Massalongo, 24",
+    "citta": "Tregnago",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 2,
+        "oraApertura": "07:45",
+        "oraChiusura": "10:30"
+      },
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 4,
+        "oraApertura": "07:45",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "data": "2026-07-24",
+        "nota": "Chiusura"
+      },
+      {
+        "nota": "Chiusura",
+        "isRangeChiusura": true,
+        "dataInizio": "2026-08-01",
+        "dataFine": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. di Cologna Veneta",
+    "indirizzo": "Via Rinascimento",
+    "citta": "Cologna Veneta",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 5,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "nota": "Chiusura",
+        "isRangeChiusura": true,
+        "dataInizio": "2026-07-01",
+        "dataFine": "2026-07-31"
+      },
+      {
+        "nota": "Chiusura",
+        "isRangeChiusura": true,
+        "dataInizio": "2026-08-01",
+        "dataFine": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Villafranca",
+    "indirizzo": "Via Ospedale, 5",
+    "citta": "Villafranca",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 6,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. di Caprino Veronese",
+    "indirizzo": "Via Capuccini 5",
+    "citta": "Caprino Veronese",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Isola della Scala",
+    "indirizzo": "Via Roma, 60",
+    "citta": "Isola della Scala",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [
+      {
+        "giorno": 4,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Malcesine",
+    "indirizzo": "Via Val di Sogno",
+    "citta": "Malcesine",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [],
+    "orariMensili": [],
+    "dateSpecifiche": [
+      {
+        "data": "2026-01-13",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2026-03-10",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2026-06-09",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2026-09-15",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2026-10-27",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "data": "2026-12-15",
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Bovolone",
+    "indirizzo": "Piazzale Fleming, 1",
+    "citta": "Bovolone",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. Nogara",
+    "indirizzo": "Via Raffa",
+    "citta": "Nogara",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "C.S.P. Zevio",
+    "indirizzo": "Via Chiarenzi, 2",
+    "citta": "Zevio",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Negrar",
+    "indirizzo": "Via Rizzardi",
+    "citta": "Negrar",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "10:30"
+      }
+    ],
+    "dateSpecifiche": [],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      },
+      {
+        "nota": "Chiusura",
+        "isRangeChiusura": true,
+        "dataInizio": "2026-08-01",
+        "dataFine": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "nome": "Ospedale di Legnago",
+    "indirizzo": "Via Don Gianella",
+    "citta": "Legnago",
+    "telefono": "0442622867",
+    "email": "prenota.trasfusionale@aulss9.veneto.it",
+    "orariSettimanali": [
+      {
+        "giorno": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 3,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 4,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 6,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "orariMensili": [
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 1,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 2,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "giorno": 7,
+        "numeroGiornoMese": 5,
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "dateSpecifiche": [
+      {
+        "data": "2026-01-25",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-02-22",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-04-26",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-06-28",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-07-26",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-09-27",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-10-25",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      },
+      {
+        "data": "2026-12-27",
+        "oraApertura": "08:00",
+        "oraChiusura": "11:00"
+      }
+    ],
+    "chiusure": [
+      {
+        "data": "2026-01-01",
+        "nota": "Capodanno"
+      },
+      {
+        "data": "2026-01-06",
+        "nota": "Epifania"
+      },
+      {
+        "data": "2026-04-05",
+        "nota": "Pasqua"
+      },
+      {
+        "data": "2026-04-06",
+        "nota": "Pasquetta"
+      },
+      {
+        "data": "2026-04-25",
+        "nota": "Liberazione"
+      },
+      {
+        "data": "2026-05-01",
+        "nota": "1 Maggio"
+      },
+      {
+        "data": "2026-05-21",
+        "nota": "Santo Patrono"
+      },
+      {
+        "data": "2026-06-02",
+        "nota": "2 Giugno"
+      },
+      {
+        "data": "2026-08-15",
+        "nota": "Ferragosto"
+      },
+      {
+        "data": "2026-11-01",
+        "nota": "1 Novembre"
+      },
+      {
+        "data": "2026-12-08",
+        "nota": "8 Dicembre"
+      },
+      {
+        "data": "2026-12-25",
+        "nota": "Natale"
+      },
+      {
+        "data": "2026-12-26",
+        "nota": "S. Stefano"
+      }
+    ]
+  }
+]
